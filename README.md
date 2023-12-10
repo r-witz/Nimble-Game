@@ -1,6 +1,5 @@
-# Nimble-Game
+# Nimble
 
-## 1 - Nimble
 ### Les règles du jeu
 
 Deux joueurs s’affrontent sur un plateau unidimensionnel de n cases. Initialement chaque case contient un nombre aléatoire (pouvant être nul) de pions. A tour de rôle les joueurs choisissent une case contenant au moins un pion, et déplace l’un des pions y figurant vers une case située plus à gauche, i.e. une case d’indice strictement inférieur. Cette case peut être vide ou déjà contenir un ou plusieurs pions.
